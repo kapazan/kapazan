@@ -43,4 +43,4 @@
 |Project - 202              |[Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using Terraform](https://github.com/kapazan/202-terraform-phonebook-app-deployment)|
 |Project - 203               |[Dockerization of Bookstore Web API (Python Flask) with MySQL ](https://github.com/kapazan/203-dockerization-bookstore-api-on-python-flask-mysql)|
 |Project - 204                | [Docker Swarm Deployment of Phonebook Application (Python Flask) with MySQL ](https://github.com/kapazan/204-docker-swarm-deployment-of-phonebook-app-on-python-flask-mysql-Terraform)|
-|Project - Capstone           | [ Microservices - CI/CD ](https://github.com/kapazan/petclinic-microservices-with-db)|
+|Project - Capstone           | [Capstone Project - Microservices - CI/CD ](https://github.com/kapazan/petclinic-microservices-with-db)|
