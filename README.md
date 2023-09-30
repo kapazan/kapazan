@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm <a>Rizgar</a> <br></p> Welcome to My GitHub Page</h1>
 
-- 🔭 I’m currently working on **AWS & DevOps**
+- 🔭 I’m working on **AWS & DevOps**
 - ⚡ Here are some of my projects that i want to share with you
 
 [<img align="left" alt="MAIL" width="30px" src="./images/Gmail.svg.png" style="padding-right:10px;" />](mailto:kapazanrizgar@gmail.com)
