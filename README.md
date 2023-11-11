@@ -46,4 +46,6 @@
 |Project - 206                | [Microservice Architecture for Phonebook Web Application (Python Flask) with MySQL using Kubernetes. ](https://github.com/kapazan/Microservice-Architecture-for-Phonebook-Web-Application-Python-Flask-with-MySQL-using-Kubernetes)|
 |Project - 208                | [Jenkins Pipeline for Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker ](https://github.com/kapazan/208-jenkins-pipeline-for-webpage-application-postgresql-nodejs-react-)|
 |Project - 207                | [Web Page Application (Postgresql-Nodejs-React) deployed on EC2's with Ansible and Docker ](https://github.com/kapazan/jenkins-pipeline-for-webpage-application-postgresql-nodejs-react)|
+|Project - 505                | [Distributed version of the Spring PetClinic Sample Application built with Spring Cloud ](https://github.com/kapazan/project-505-petclinic-microservices)|
+
 
